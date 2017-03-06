@@ -1,0 +1,14 @@
+{
+  "name": "sceneskope-measure-samples",
+  "version": "1.0.0",
+  "description": "Samples for SceneSkope measure",
+  "main": "index.js",
+  "scripts": {
+    "sample": "http-server simple/wwwroot"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
