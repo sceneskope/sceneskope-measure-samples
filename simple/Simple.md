@@ -15,6 +15,8 @@
     `data-sk-content="lpara-1"`
 
 
-View the web site
+View the web site [https://rawgit.com/sceneskope/sceneskope-measure-samples/master/simple/wwwroot/index.html](https://rawgit.com/sceneskope/sceneskope-measure-samples/master/simple/wwwroot/index.html)
+
+
 
 
